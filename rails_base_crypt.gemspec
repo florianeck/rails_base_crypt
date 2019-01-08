@@ -6,5 +6,4 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/florianeck/rails_base_crypt"
   s.summary     = "Experimental Ruby/Rails encrypt/decrypt project"
   s.description = "A simple idea about creating an decrypt/encrypt interface for Ruby/Rails apps"
-
 end
